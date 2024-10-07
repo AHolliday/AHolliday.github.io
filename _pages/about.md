@@ -17,6 +17,6 @@ I'm a PhD candidate in computer science at McGill University, supervised by prof
 
 Beyond my work in academia, I have spent time in industry: from 2017 to 2019 I was a machine learning consultant with Kinsol Research, working with them on several projects relating to visual object detection and time-series prediction.  There I curated datasets and designed and implemented machine learning models and training pipelines.
 
-When not engaged in research, I enjoy spending time outdoors, exploring the city of Montreal, and playing board games with friends.  I'm also an avid reader of literary fiction, science fiction, philosophy (especially ethics and metaphysics) and history.
+When not engaged in research, I enjoy spending time outdoors, exploring the city of Montreal, and playing board games with friends.  I'm also an avid reader of literary fiction, science fiction, philosophy (especially ethics and philosophy of mind) and history.
 
 - mention ITSC chairing
