@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: nikhil_shot.jpg
+  image: balcony.png
   image_circular: false # crops the image to make it circular
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
