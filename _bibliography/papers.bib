@@ -29,7 +29,7 @@
   keywords={Cameras;Simultaneous localization and mapping;Visual odometry;Visualization;Real-time systems;Motion estimation;active sensing;robotics;vision;SLAM},
   abstract = {We present an approach to enhancing visual odometry and Simultaneous Localization and Mapping (SLAM) in the context of robot navigation by actively modulating the gaze direction to enhance the quality of the odometric estimates that are returned. We focus on two quality factors: i) stability of the visual features, and ii) consistency of the visual features with respect to robot motion and the associated correspondence between frames. We assume that local texture measures are associated with underlying scene content and thus with the quality of the visual features for the associated region of the scene. Based on this assumption, we train a machine-learning system to score different regions of an image based on their texture and then guide the robot's gaze toward high scoring image regions. Our work is targeted towards motion estimation and SLAM for small, lightweight, and autonomous air vehicles where computational resources are constrained in weight, size, and power. However, we believe that our work is also applicable to other types of robotic systems. Our experimental validation consists of simulations, constrained tests, and outdoor flight experiments on an unmanned aerial vehicle. We find that modulating gaze direction can improve localization accuracy by up to 62 percent.},
   bibtex_show={true},
-  pdf={https://www.cim.mcgill.ca/~mrl/pubs/travism/travis_manderson_crv2018.pdf},
+  pdf={https://www.cim.mcgill.ca/$\sim$mrl/pubs/travism/travis_manderson_crv2018.pdf},
   doi={10.1109/CRV.2018.00025}
 }
 
@@ -44,8 +44,8 @@
   keywords={Visualization;Measurement;Simultaneous localization and mapping;Robustness;Databases;Search problems},
   abstract={Visual localization under large changes in scale is an important capability in many robotic mapping applications, such as localizing at low altitudes in maps built at high altitudes, or performing loop closure over long distances. Existing approaches, however, are robust only up to about a 3× difference in scale between map and query images. We propose a novel combination of deep-learning-based object features and state-of-the-art SIFT point-features that yields improved robustness to scale change. This technique is training-free and class-agnostic, and in principle can be deployed in any environment out-of-the-box. We evaluate the proposed technique on the KITTI Odometry benchmark and on a novel dataset of outdoor images exhibiting changes in visual scale of 7× and greater, which we have released to the public. Our technique consistently outperforms localization using either SIFT features or the proposed object features alone, achieving both greater accuracy and much lower failure rates under large changes in scale.},
   bibtex_show={true},
-  pdf={https://www.cim.mcgill.ca/~mrl/pubs/ahollid/iros_2018.pdf},
-  arxiv={https://arxiv.org/abs/1710.10466},
+  pdf={https://www.cim.mcgill.ca/$\sim$mrl/pubs/ahollid/iros_2018.pdf},
+  arxiv={1710.10466},
   code={https://github.com/AHolliday/landmark_localizer},
   doi={10.1109/IROS.2018.8594011}
 }
@@ -62,7 +62,7 @@
   abstract={In this work, we perform a wide-ranging evaluation of Convolutional Neural Networks (CNNs) as feature extractors for matching visual features under large changes in appearance, perspective, and visual scale. Our evaluation covers 82 different layers from twelve different CNN architectures belonging to four families: AlexNets, VGG Nets, ResNets, and DenseNets. To our knowledge, this is the most comprehensive analysis of its kind in the literature. We find that the intermediate layers of DenseNets serve as the best feature extractors overall, providing the best overall trade-off of robustness to feature size. Moreover, we find that for each network, the later-intermediate layers provide the best performance, regardless of the total number of layers in the network.},
   bibtex_show={true},
   code={https://github.com/AHolliday/landmark_localizer},
-  pdf={https://www.cim.mcgill.ca/~mrl/pubs/ahollid/crv_2020.pdf},
+  pdf={https://www.cim.mcgill.ca/$\sim$mrl/pubs/ahollid/crv_2020.pdf},
   doi={10.1109/CRV50864.2020.00019}
 }  
 
@@ -93,7 +93,7 @@
   keywords={Deep learning;Costs;Heuristic algorithms;Metaheuristics;Urban areas;Search problems;Planning},
   abstract={This paper considers the use of deep learning models to enhance optimization algorithms for transit network design. Transit network design is the problem of determining routes for transit vehicles that minimize travel time and operating costs, while achieving full service coverage. State-of-the-art meta-heuristic search algorithms give good results on this problem, but can be very time-consuming. In contrast, neural networks can learn sub-optimal but fast-to-compute heuristics based on large amounts of data. Combining these approaches, we develop a fast graph neural network model for transit planning, and use it to initialize state-of-the-art search algorithms. We show that this combination can improve the results of these algorithms on a variety of metrics by up to 17%, without increasing their run time; or they can match the quality of the original algorithms while reducing the computing time by up to a factor of 50.},
   bibtex_show={true},
-  pdf={https://www.cim.mcgill.ca/~mrl/pubs/ahollid/ITSC_2023.pdf},
+  pdf={https://www.cim.mcgill.ca/$\sim$mrl/pubs/ahollid/ITSC_2023.pdf},
   code={https://github.com/AHolliday/transit_learning},
   doi={10.1109/ITSC57777.2023.10422363}
 }
@@ -110,9 +110,9 @@
   abstract={Planning a public transit network is a challenging optimization problem, but essential in order to realize the benefits of autonomous buses. We propose a novel algorithm for planning networks of routes for autonomous buses. We first train a graph neural net model as a policy for constructing route networks, and then use the policy as one of several mutation operators in a evolutionary algorithm. We evaluate this algorithm on a standard set of benchmarks for transit network design, and find that it outperforms the learned policy alone by up to 20\% and a plain evolutionary algorithm approach by up to 53\% on realistic benchmark instances.},
   bibtex_show={true},
   pdf={https://arxiv.org/pdf/2403.07917},
-  slides={https://www.cim.mcgill.ca/~mrl/pubs/ahollid/ICRA_2024_presentation.pdf},
-  poster={https://www.cim.mcgill.ca/~mrl/pubs/ahollid/ICRA_2024_poster.pdf},
-  arxiv={https://arxiv.org/abs/2403.07917},
+  slides={https://www.cim.mcgill.ca/$\sim$mrl/pubs/ahollid/ICRA_2024_presentation.pdf},
+  poster={https://www.cim.mcgill.ca/$\sim$mrl/pubs/ahollid/ICRA_2024_poster.pdf},
+  arxiv={2403.07917},
   code={https://github.com/AHolliday/transit_learning},
   selected={true},
   doi={10.1109/ICRA57147.2024.10611313}
@@ -130,7 +130,7 @@
   abstract={In this paper, we investigate a hybrid scheme that combines nonlinear model predictive control (MPC) and model-based reinforcement learning (RL) for navigation planning of an autonomous model car across offroad, unstructured terrains without relying on predefined maps. Our innovative approach takes inspiration from BADGR, an LSTM-based network that primarily concentrates on environment modeling, but distinguishes itself by substituting LSTM modules with transformers to greatly elevate the performance of our model. Addressing uncertainty within the system, we train an ensemble of predictive models and estimate the mutual information between model weights and outputs, facilitating dynamic horizon planning through the introduction of variable speeds. Further enhancing our methodology, we incorporate a nonlinear MPC controller that accounts for the intricacies of the vehicle’s model and states. The model-based RL facet produces steering angles and quantifies inherent uncertainty. At the same time, the nonlinear MPC suggests optimal throttle settings, striking a balance between goal attainment speed and managing model uncertainty influenced by velocity. In the conducted studies, our approach excels over the existing baseline by consistently achieving higher metric values in predicting future events and seamlessly integrating the vehicle’s kinematic model for enhanced decision-making.},
   bibtex_show={true},
   pdf={https://arxiv.org/pdf/2310.00760},
-  arxiv={https://arxiv.org/abs/2310.00760},
+  arxiv={2310.00760},
   code={https://github.com/FARAZLOTFI/offroad_autonomous_navigation/},
   doi={10.1109/ICRA57147.2024.10610452}
 }
