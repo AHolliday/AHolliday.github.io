@@ -6,7 +6,7 @@ img: assets/img/montreal_dataset.png
 redirect: https://www.cim.mcgill.ca/%7emrl/montreal_scale_pairs/index.html
 importance: 3
 category: work
-<!-- ---
+---
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
@@ -78,4 +78,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 
-{% endraw %} -->
+{% endraw %}
