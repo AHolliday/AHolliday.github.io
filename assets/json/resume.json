@@ -20,50 +20,46 @@
       "name": "Samsung AI Center Montreal",
       "location": "Montreal, Quebec",
       "position": "Research Intern",
-      "startDate": "2019-05",
-      "endDate": "2019-08"
+      "startDate": "2019"
     },
     {
       "name": "Kinsol Research Inc.",
       "location": "Victoria, British Columbia",      
       "position": "Machine Learning Consultant",
-      "startDate": "2017-05",
-      "endDate": "2019-04"
+      "startDate": "2017",
+      "endDate": "2019"
     },
     {
       "name": "National Institute of Informatics",
       "location": "Tokyo, Japan",
       "position": "Research Intern, Team Lead",
-      "startDate": "2016-03",
-      "endDate": "2016-06"
+      "startDate": "2016"
     },
     {
       "name": "McGill University",
       "location": "Montreal, Quebec",
       "position": "Teaching Assistant",
-      "startDate": "2014-09",
-      "endDate": "2017-04"
+      "startDate": "2014",
+      "endDate": "2017"
     },
     {
       "name": "In Motion Technology",
       "location": "New Westminster, British Columbia",
       "position": "Software Developer",
-      "startDate": "2011-07",
-      "endDate": "2013-06"
+      "startDate": "2011",
+      "endDate": "2013"
     },
     {
       "name": "University of British Columbia",
       "location": "Vancouver, British Columbia",
       "position": "Research Assistant",
-      "startDate": "2010-05",
-      "endDate": "2010-08"
+      "startDate": "2010"
     },
     {
       "name": "Metalogix Software",
       "location": "Vancouver, British Columbia",
       "position": "Software Development Intern",
-      "startDate": "2009-05",
-      "endDate": "2009-08"
+      "startDate": "2009"
     }
   ],
   "volunteer": [
@@ -75,7 +71,13 @@
     },
     {
       "position": "Reviewer",
-      "description": "IROS 2017, 2018, 2019, 2020, 2023; ICRA 2019, 2020, 2024; CRV 2018, 2020; RSS 2019; ITSC 2023"
+      "highlights": [
+        "IROS 2017, 2018, 2019, 2020, 2023",
+        "ICRA 2019, 2020, 2024",
+        "CRV 2018, 2020",
+        "RSS 2019",
+        "ITSC 2023"
+      ]
     }
   ],
   "education": [
