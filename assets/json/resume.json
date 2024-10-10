@@ -20,46 +20,50 @@
       "name": "Samsung AI Center Montreal",
       "location": "Montreal, Quebec",
       "position": "Research Intern",
-      "endDate": "2019"
+      "startDate": "2019-05",
+      "endDate": "2019-08"
     },
     {
       "name": "Kinsol Research Inc.",
       "location": "Victoria, BC",      
       "position": "Machine Learning Consultant",
-      "startDate": "2017",
-      "endDate": "2019"
+      "startDate": "2017-05",
+      "endDate": "2019-04"
     },
     {
       "name": "National Institute of Informatics",
       "location": "Tokyo, Japan",
       "position": "Research Intern, Team Lead",
-      "endDate": "2016"
+      "startDate": "2016-03",
+      "endDate": "2016-06"
     },
     {
       "name": "McGill University",
       "location": "Montreal, Quebec",
       "position": "Teaching Assistant",
-      "startDate": "2014",
-      "endDate": "2017"
+      "startDate": "2014-09",
+      "endDate": "2017-04"
     },
     {
       "name": "In Motion Technology",
       "location": "New Westminster, BC",
       "position": "Software Developer",
-      "startDate": "2011",
-      "endDate": "2013"
+      "startDate": "2011-07",
+      "endDate": "2013-06"
     },
     {
       "name": "University of British Columbia",
       "location": "Vancouver, BC",
       "position": "Research Assistant",
-      "endDate": "2010"
+      "startDate": "2010-05",
+      "endDate": "2010-08"
     },
     {
       "name": "Metalogix Software",
       "location": "Vancouver, BC",
       "position": "Software Development Intern",
-      "endDate": "2009"
+      "startDate": "2009-05",
+      "endDate": "2009-08"
     }
   ],
   "volunteer": [
