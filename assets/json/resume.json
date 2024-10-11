@@ -15,7 +15,7 @@
       "region": "Quebec"
     }
   },
-  "work": [
+  "Experience": [
     {
       "name": "Samsung AI Center Montreal",
       "location": "Montreal, Quebec",
@@ -90,23 +90,23 @@
       "location": "Montreal, Quebec",
       "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "2017-09-01"
+      "startDate": "2017-09"
     },
     {
       "institution": "McGill University",
       "location": "Montreal, Quebec",
       "area": "Computer Science",
       "studyType": "MSc",
-      "startDate": "2014-09-01",
-      "endDate": "2017-08-15"
+      "startDate": "2014-09",
+      "endDate": "2017-08"
     },
     {
       "institution": "University of British Columbia",
       "location": "Montreal, Quebec",
       "area": "Computer Science",
       "studyType": "MSc",
-      "startDate": "2007-09-01",
-      "endDate": "2011-04-30"
+      "startDate": "2007-09",
+      "endDate": "2011-04"
     }
   ],
   "skills": [
@@ -120,7 +120,17 @@
       ]
     },
     {
+      "name": "Other",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Technical writing",
+        "Project management",
+        "Conflict resolution"
+      ]
+    },    
+    {
       "name": "Languages and Frameworks",
+      "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Python",
         "C/C++",
@@ -129,14 +139,6 @@
         "PyTorch",
         "OpenCV",
         "ROS"
-      ]
-    },
-    {
-      "name": "Other",
-      "keywords": [
-        "Technical writing",
-        "Project management",
-        "Conflict resolution"
       ]
     }
   ]
