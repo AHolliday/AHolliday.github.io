@@ -15,7 +15,7 @@
       "region": "Quebec"
     }
   },
-  "Experience": [
+  "work": [
     {
       "name": "Samsung AI Center Montreal",
       "location": "Montreal, Quebec",
@@ -69,7 +69,6 @@
   "volunteer": [
     {
       "organization": "IEEE Intelligent Transportation Systems Conference",
-      "location": "Bilbao, Spain",
       "position": "Session Chair for session on Public Transport Modelling",
       "date": "2023-09-24"
     },
@@ -104,7 +103,7 @@
       "institution": "University of British Columbia",
       "location": "Montreal, Quebec",
       "area": "Computer Science",
-      "studyType": "MSc",
+      "studyType": "BSc",
       "startDate": "2007-09",
       "endDate": "2011-04"
     }
