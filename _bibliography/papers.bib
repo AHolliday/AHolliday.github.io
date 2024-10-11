@@ -15,13 +15,14 @@
   keywords = {Semantic segmentation, Model compression, Transfer learning, Real-time application},
   abstract = {Deep Learning (DL) has been proven as a powerful recognition method as evidenced by its success in recent computer vision competitions. The most accurate results have been obtained by ensembles of DL models that pool their results. However, such ensembles are computationally costly, making them inapplicable to real-time applications. In this paper, we apply model compression techniques to the problem of semantic segmentation, which is one of the most challenging problems in computer vision. Our results suggest that compressed models can approach the accuracy of full ensembles on this task, combining the diverse strengths of networks of very different architectures, while maintaining real-time performance.},
   bibtex_show={true},
-  pdf={nii_2016.pdf}
+  pdf={nii_2016.pdf},
+  abbr={CVIU},
   selected={true},
 }
 
 @INPROCEEDINGS{8575743,
   author={Manderson, Travis and Holliday, Andrew and Dudek, Gregory},
-  booktitle={2018 15th Conference on Computer and Robot Vision (CRV)}, 
+  booktitle={2018 15th Conference on Computer and Robot Vision}, 
   title={Gaze Selection for Enhanced Visual Odometry During Navigation}, 
   year={2018},
   volume={},
@@ -31,12 +32,13 @@
   abstract = {We present an approach to enhancing visual odometry and Simultaneous Localization and Mapping (SLAM) in the context of robot navigation by actively modulating the gaze direction to enhance the quality of the odometric estimates that are returned. We focus on two quality factors: i) stability of the visual features, and ii) consistency of the visual features with respect to robot motion and the associated correspondence between frames. We assume that local texture measures are associated with underlying scene content and thus with the quality of the visual features for the associated region of the scene. Based on this assumption, we train a machine-learning system to score different regions of an image based on their texture and then guide the robot's gaze toward high scoring image regions. Our work is targeted towards motion estimation and SLAM for small, lightweight, and autonomous air vehicles where computational resources are constrained in weight, size, and power. However, we believe that our work is also applicable to other types of robotic systems. Our experimental validation consists of simulations, constrained tests, and outdoor flight experiments on an unmanned aerial vehicle. We find that modulating gaze direction can improve localization accuracy by up to 62 percent.},
   bibtex_show={true},
   pdf={https://www.cim.mcgill.ca/%7emrl/pubs/travism/travis_manderson_crv2018.pdf},
+  abbr={CRV}
   doi={10.1109/CRV.2018.00025}
 }
 
 @INPROCEEDINGS{8594011,
   author={Holliday, Andrew and Dudek, Gregory},
-  booktitle={2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  booktitle={2018 IEEE/RSJ International Conference on Intelligent Robots and Systems}, 
   title={Scale-Robust Localization Using General Object Landmarks}, 
   year={2018},
   volume={},
@@ -48,12 +50,13 @@
   pdf={https://www.cim.mcgill.ca/%7emrl/pubs/ahollid/iros_2018.pdf},
   website={https://www.cim.mcgill.ca/%7emrl/montreal_scale_pairs/index.html},
   arxiv={1710.10466},
+  abbr={IROS},
   doi={10.1109/IROS.2018.8594011}
 }
 
 @INPROCEEDINGS{9108679,
   author={Holliday, Andrew and Dudek, Gregory},
-  booktitle={2020 17th Conference on Computer and Robot Vision (CRV)}, 
+  booktitle={2020 17th Conference on Computer and Robot Vision}, 
   title={Pre-trained CNNs as Visual Feature Extractors: A Broad Evaluation}, 
   year={2020},
   volume={},
@@ -63,6 +66,7 @@
   abstract={In this work, we perform a wide-ranging evaluation of Convolutional Neural Networks (CNNs) as feature extractors for matching visual features under large changes in appearance, perspective, and visual scale. Our evaluation covers 82 different layers from twelve different CNN architectures belonging to four families: AlexNets, VGG Nets, ResNets, and DenseNets. To our knowledge, this is the most comprehensive analysis of its kind in the literature. We find that the intermediate layers of DenseNets serve as the best feature extractors overall, providing the best overall trade-off of robustness to feature size. Moreover, we find that for each network, the later-intermediate layers provide the best performance, regardless of the total number of layers in the network.},
   bibtex_show={true},
   pdf={https://www.cim.mcgill.ca/%7emrl/pubs/ahollid/crv_2020.pdf},
+  abbr={CRV},
   doi={10.1109/CRV50864.2020.00019}
 }  
 
@@ -79,12 +83,13 @@
   bibtex_show={true},
   code={https://github.com/AHolliday/landmark_localizer},
   pdf={https://link.springer.com/content/pdf/10.1007/s10514-021-09973-w.pdf},
+  abbr={AR},
   selected={true},
 }
 
 @INPROCEEDINGS{10422363,
   author={Holliday, Andrew and Dudek, Gregory},
-  booktitle={2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)}, 
+  booktitle={2023 IEEE 26th International Conference on Intelligent Transportation Systems}, 
   title={Augmenting Transit Network Design Algorithms with Deep Learning}, 
   year={2023},
   volume={},
@@ -94,12 +99,13 @@
   abstract={This paper considers the use of deep learning models to enhance optimization algorithms for transit network design. Transit network design is the problem of determining routes for transit vehicles that minimize travel time and operating costs, while achieving full service coverage. State-of-the-art meta-heuristic search algorithms give good results on this problem, but can be very time-consuming. In contrast, neural networks can learn sub-optimal but fast-to-compute heuristics based on large amounts of data. Combining these approaches, we develop a fast graph neural network model for transit planning, and use it to initialize state-of-the-art search algorithms. We show that this combination can improve the results of these algorithms on a variety of metrics by up to 17%, without increasing their run time; or they can match the quality of the original algorithms while reducing the computing time by up to a factor of 50.},
   bibtex_show={true},
   pdf={https://www.cim.mcgill.ca/%7emrl/pubs/ahollid/ITSC_2023.pdf},
+  abbr={ITSC},
   doi={10.1109/ITSC57777.2023.10422363}
 }
 
 @INPROCEEDINGS{10611313,
   author={Holliday, Andrew and Dudek, Gregory},
-  booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)}, 
+  booktitle={2024 IEEE International Conference on Robotics and Automation}, 
   title={A Neural-Evolutionary Algorithm for Autonomous Transit Network Design}, 
   year={2024},
   volume={},
@@ -114,12 +120,13 @@
   arxiv={2403.07917},
   code={https://github.com/AHolliday/transit_learning},
   selected={true},
+  abbr={ICRA},
   doi={10.1109/ICRA57147.2024.10611313}
 }
 
 @INPROCEEDINGS{10610452,
   author={Lotfi, Faraz and Virji, Khalil and Faraji, Farnoosh and Berry, Lucas and Holliday, Andrew and Meger, David and Dudek, Gregory},
-  booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)}, 
+  booktitle={2024 IEEE International Conference on Robotics and Automation}, 
   title={Uncertainty-aware hybrid paradigm of nonlinear MPC and model-based RL for offroad navigation: Exploration of transformers in the predictive model}, 
   year={2024},
   volume={},
@@ -130,5 +137,6 @@
   bibtex_show={true},
   pdf={https://arxiv.org/pdf/2310.00760},
   arxiv={2310.00760},
+  abbr={ICRA},
   doi={10.1109/ICRA57147.2024.10610452}
 }
