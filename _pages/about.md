@@ -17,4 +17,4 @@ I am a PhD candidate in computer science at McGill University, supervised by pro
 
 My research interests include computer vision, urban planning, reinforcement learning, field robotics, graph neural networks, AI alignment, and neural learning in general.  Beyond my work in academia, I have several years of industrial experience in software development, machine learning engineering, and data science.
 
-When not engaged in research, I enjoy spending time outdoors, exploring the city of Montreal, and playing board games with friends.  I'm also an avid reader, especially of works of fiction, history, and philosophy, especially ethics and the philosophy of mind.
+When not engaged in research, I enjoy spending time outdoors, exploring the city of Montreal, and playing board games with friends.  I'm also an avid reader of works of fiction, history, and philosophy, especially ethics and the philosophy of mind.
