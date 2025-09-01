@@ -1,9 +1,9 @@
 {
   "basics": {
     "name": "Andrew Holliday",
-    "label": "PhD Candidate",
+    "label": "Machine Learning Engineer & Researcher",
     "image": "",
-    "email": "andrew.holliday@mail.mcgill.ca",
+    "email": "andrew.holliday@proton.me",
     "phone": "",
     "url": "",
     "summary": "",
@@ -17,18 +17,18 @@
   },
   "work": [
     {
+      "name": "Kinsol Research Inc.",
+      "location": "Victoria, BC",      
+      "position": "Machine Learning Consultant",
+      "startDate": "2017-05 - 2019-04, 2025-02",
+      "endDate": "Present"
+    },
+    {
       "name": "Samsung AI Center Montreal",
       "location": "Montreal, Quebec",
       "position": "Research Intern",
       "startDate": "2019-05",
       "endDate": "2019-08"
-    },
-    {
-      "name": "Kinsol Research Inc.",
-      "location": "Victoria, BC",      
-      "position": "Machine Learning Consultant",
-      "startDate": "2017-05",
-      "endDate": "2019-04"
     },
     {
       "name": "National Institute of Informatics",
